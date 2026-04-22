@@ -1,10 +1,10 @@
-
-        div{
-    width:500px;
-    background-color: teal;
-    font-family: sans-serif;
+Div{
+    margin: 25px;
     padding: 15px;
-
-}
-h3,p{color: rgb(229, 241, 7);
+    border: 2px solid;
+    background-color: crimson;
+    color: white;
+    width: 450px;
+    height: auto;
+    font-family: sans-serif;
 }
